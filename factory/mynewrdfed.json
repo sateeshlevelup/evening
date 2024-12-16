@@ -1,0 +1,9 @@
+{
+	"name": "mynewrdfed",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98711a85-a6b8-4297-a7dc-9bebe8426422",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
