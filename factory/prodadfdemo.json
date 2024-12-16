@@ -1,0 +1,9 @@
+{
+	"name": "prodadfdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d780d3b-9c31-4b8a-b07a-fe9b8e54edb0",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
