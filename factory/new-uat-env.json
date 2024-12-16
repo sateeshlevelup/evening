@@ -1,0 +1,9 @@
+{
+	"name": "new-uat-env",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f339bf07-c8f5-4e5a-83fc-0ce3da89671f",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
