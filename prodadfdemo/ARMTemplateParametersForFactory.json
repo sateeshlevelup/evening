@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "prodadfdemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"DlLs_accountKey": {
+			"value": ""
+		},
+		"bloclsforsink_connectionString": {
+			"value": ""
+		},
+		"DlLs_properties_typeProperties_url": {
+			"value": "https://demofordlsoc.dfs.core.windows.net/"
+		}
+	}
+}
